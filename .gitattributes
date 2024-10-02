@@ -2,4 +2,5 @@
 *.apk linguist-vendored
 *.sh linguist-vendored
 *.txt linguist-vendored
-*.vbs linguist-vendore
+*.vbs linguist-vendored
+*.py linguist-vendore
