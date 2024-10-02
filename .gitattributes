@@ -1,0 +1,5 @@
+*.app linguist-vendored
+*.apk linguist-vendored
+*.sh linguist-vendored
+*.txt linguist-vendored
+*.vbs linguist-vendore
