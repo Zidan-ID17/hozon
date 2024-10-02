@@ -3,4 +3,5 @@
 *.sh linguist-vendored
 *.txt linguist-vendored
 *.vbs linguist-vendored
-*.py linguist-vendore
+*.py linguist-vendored
+*.bat linguist-vendored
